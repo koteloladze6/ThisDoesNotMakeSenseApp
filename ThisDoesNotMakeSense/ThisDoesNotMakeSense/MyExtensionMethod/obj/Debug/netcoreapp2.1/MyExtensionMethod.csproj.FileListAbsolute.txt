@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MyExtensionMethod\MyExtensionMethod\obj\Debug\netcoreapp2.1\MyExtensionMethod.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MyExtensionMethod\MyExtensionMethod\obj\Debug\netcoreapp2.1\MyExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyExtensionMethod\MyExtensionMethod\obj\Debug\netcoreapp2.1\MyExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyExtensionMethod\MyExtensionMethod\obj\Debug\netcoreapp2.1\MyExtensionMethod.AssemblyInfo.cs
+C:\Users\User\source\repos\MyExtensionMethod\MyExtensionMethod\bin\Debug\netcoreapp2.1\MyExtensionMethod.deps.json
+C:\Users\User\source\repos\MyExtensionMethod\MyExtensionMethod\bin\Debug\netcoreapp2.1\MyExtensionMethod.runtimeconfig.json
+C:\Users\User\source\repos\MyExtensionMethod\MyExtensionMethod\bin\Debug\netcoreapp2.1\MyExtensionMethod.runtimeconfig.dev.json
+C:\Users\User\source\repos\MyExtensionMethod\MyExtensionMethod\bin\Debug\netcoreapp2.1\MyExtensionMethod.dll
+C:\Users\User\source\repos\MyExtensionMethod\MyExtensionMethod\bin\Debug\netcoreapp2.1\MyExtensionMethod.pdb
+C:\Users\User\source\repos\MyExtensionMethod\MyExtensionMethod\obj\Debug\netcoreapp2.1\MyExtensionMethod.dll
+C:\Users\User\source\repos\MyExtensionMethod\MyExtensionMethod\obj\Debug\netcoreapp2.1\MyExtensionMethod.pdb
